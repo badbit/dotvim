@@ -40,11 +40,11 @@ call pathogen#helptags()
 "filetype indent on
 
 " Configuraciones necesarias para LaTeX suite
-"set grepprg=grep\ -nH\ $*
-"let g:tex_flavor='latex'
-"set sw=2
-"set iskeyword+=:
+set grepprg=grep\ -nH\ $*
+let g:tex_flavor='latex'
+set sw=2
+set iskeyword+=:
 
 " NERDTree toggle con F2
-"map <F2> :NERDTreeToggle<CR>
+map <F2> :NERDTreeToggle<CR>
 
