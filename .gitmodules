@@ -4,3 +4,6 @@
 [submodule "bundle/vim-latex-suite"]
 	path = bundle/vim-latex-suite
 	url = https://github.com/gerw/vim-latex-suite.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
