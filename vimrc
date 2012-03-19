@@ -27,7 +27,7 @@ syntax on
 colors ir_black
 
 
-" -----------ACTIVACION DE LA AYUDA---------------
+" -----------ACTIVACIÓN DE LA AYUDA---------------
 "helptags ~/.vim/doc
 
 
