@@ -23,6 +23,9 @@ set number
 " Activa el resaltado automático de sintaxis.
 syntax on
 
+" Esquema de color predeterminado
+colors ir_black
+
 
 " -----------ACTIVACION DE LA AYUDA---------------
 "helptags ~/.vim/doc
