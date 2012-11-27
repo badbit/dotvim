@@ -24,7 +24,7 @@ set number
 syntax on
 
 " Esquema de color predeterminado
-colors ir_black
+colors herald
 
 
 " -----------ACTIVACIÓN DE LA AYUDA---------------
